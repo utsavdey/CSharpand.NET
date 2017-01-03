@@ -1,0 +1,5 @@
+C:\dotnet_batch1\ConsoleApplicationDay2\ConsoleApplicationDay2\bin\Debug\ConsoleApplicationDay2.exe
+C:\dotnet_batch1\ConsoleApplicationDay2\ConsoleApplicationDay2\bin\Debug\ConsoleApplicationDay2.pdb
+C:\dotnet_batch1\ConsoleApplicationDay2\ConsoleApplicationDay2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\dotnet_batch1\ConsoleApplicationDay2\ConsoleApplicationDay2\obj\x86\Debug\ConsoleApplicationDay2.exe
+C:\dotnet_batch1\ConsoleApplicationDay2\ConsoleApplicationDay2\obj\x86\Debug\ConsoleApplicationDay2.pdb

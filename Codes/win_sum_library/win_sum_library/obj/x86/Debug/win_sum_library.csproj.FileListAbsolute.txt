@@ -1,0 +1,13 @@
+C:\dotnet_batch1\win_sum_library\win_sum_library\bin\Debug\win_sum_library.exe
+C:\dotnet_batch1\win_sum_library\win_sum_library\bin\Debug\win_sum_library.pdb
+C:\dotnet_batch1\win_sum_library\win_sum_library\bin\Debug\sum_dll.dll
+C:\dotnet_batch1\win_sum_library\win_sum_library\bin\Debug\sum_dll.pdb
+C:\dotnet_batch1\win_sum_library\win_sum_library\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\dotnet_batch1\win_sum_library\win_sum_library\obj\x86\Debug\win_sum_library.Form1.resources
+C:\dotnet_batch1\win_sum_library\win_sum_library\obj\x86\Debug\win_sum_library.Properties.Resources.resources
+C:\dotnet_batch1\win_sum_library\win_sum_library\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\dotnet_batch1\win_sum_library\win_sum_library\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\dotnet_batch1\win_sum_library\win_sum_library\obj\x86\Debug\win_sum_library.exe
+C:\dotnet_batch1\win_sum_library\win_sum_library\obj\x86\Debug\win_sum_library.pdb
+G:\Codes\win_sum_library\win_sum_library\obj\x86\Debug\win_sum_library.exe
+G:\Codes\win_sum_library\win_sum_library\obj\x86\Debug\win_sum_library.pdb

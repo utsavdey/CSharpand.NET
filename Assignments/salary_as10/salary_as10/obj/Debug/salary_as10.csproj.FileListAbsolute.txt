@@ -1,0 +1,4 @@
+D:\ASSN C# and .NET\salary_as10\salary_as10\bin\Debug\salary_as10.dll
+D:\ASSN C# and .NET\salary_as10\salary_as10\bin\Debug\salary_as10.pdb
+D:\ASSN C# and .NET\salary_as10\salary_as10\obj\Debug\salary_as10.dll
+D:\ASSN C# and .NET\salary_as10\salary_as10\obj\Debug\salary_as10.pdb

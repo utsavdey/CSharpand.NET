@@ -1,0 +1,9 @@
+D:\ASSN C# and .NET\Assignment1\Assignment1\bin\Debug\Assignment1.exe
+D:\ASSN C# and .NET\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
+D:\ASSN C# and .NET\Assignment1\Assignment1\obj\x86\Debug\Assignment1.exe
+D:\ASSN C# and .NET\Assignment1\Assignment1\obj\x86\Debug\Assignment1.pdb
+D:\Assignment1\Assignment1\obj\x86\Debug\Assignment1.exe
+D:\Assignment1\Assignment1\obj\x86\Debug\Assignment1.pdb
+D:\Assignment1\Assignment1\bin\Debug\Assignment1.exe
+D:\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
+D:\Assignment1\Assignment1\obj\x86\Debug\ResolveAssemblyReference.cache

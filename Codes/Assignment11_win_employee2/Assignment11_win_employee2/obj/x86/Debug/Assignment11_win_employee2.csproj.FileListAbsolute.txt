@@ -1,0 +1,41 @@
+D:\ASSN C# and .NET\Assignment11_win_employee2\Assignment11_win_employee2\bin\Debug\Assignment11_win_employee2.exe
+D:\ASSN C# and .NET\Assignment11_win_employee2\Assignment11_win_employee2\bin\Debug\Assignment11_win_employee2.pdb
+D:\ASSN C# and .NET\Assignment11_win_employee2\Assignment11_win_employee2\obj\x86\Debug\Assignment11_win_employee2.Form1.resources
+D:\ASSN C# and .NET\Assignment11_win_employee2\Assignment11_win_employee2\obj\x86\Debug\Assignment11_win_employee2.Properties.Resources.resources
+D:\ASSN C# and .NET\Assignment11_win_employee2\Assignment11_win_employee2\obj\x86\Debug\Assignment11_win_employee2.csproj.GenerateResource.Cache
+D:\ASSN C# and .NET\Assignment11_win_employee2\Assignment11_win_employee2\obj\x86\Debug\Assignment11_win_employee2.exe
+D:\ASSN C# and .NET\Assignment11_win_employee2\Assignment11_win_employee2\obj\x86\Debug\Assignment11_win_employee2.pdb
+D:\ASSN C# and .NET\Assignment11_win_employee2\Assignment11_win_employee2\obj\x86\Debug\Assignment11_win_employee2.frm_show.resources
+E:\Assignments\Assignment11_win_employee2\Assignment11_win_employee2\obj\x86\Debug\Assignment11_win_employee2.exe
+E:\Assignments\Assignment11_win_employee2\Assignment11_win_employee2\obj\x86\Debug\Assignment11_win_employee2.pdb
+E:\Assignments\Assignment11_win_employee2\Assignment11_win_employee2\bin\Debug\Assignment11_win_employee2.exe
+E:\Assignments\Assignment11_win_employee2\Assignment11_win_employee2\bin\Debug\Assignment11_win_employee2.pdb
+E:\Assignments\Assignment11_win_employee2\Assignment11_win_employee2\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Assignments\Assignment11_win_employee2\Assignment11_win_employee2\obj\x86\Debug\Assignment11_win_employee2.Form1.resources
+E:\Assignments\Assignment11_win_employee2\Assignment11_win_employee2\obj\x86\Debug\Assignment11_win_employee2.frm_show.resources
+E:\Assignments\Assignment11_win_employee2\Assignment11_win_employee2\obj\x86\Debug\Assignment11_win_employee2.Properties.Resources.resources
+E:\Assignments\Assignment11_win_employee2\Assignment11_win_employee2\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Assignments\Assignment11_win_employee2\Assignment11_win_employee2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\GLOBSYN_SS16_01\Desktop\Assignment11_win_employee2\Assignment11_win_employee2\obj\x86\Debug\Assignment11_win_employee2.exe
+C:\Documents and Settings\GLOBSYN_SS16_01\Desktop\Assignment11_win_employee2\Assignment11_win_employee2\obj\x86\Debug\Assignment11_win_employee2.pdb
+C:\Documents and Settings\GLOBSYN_SS16_01\Desktop\Assignment11_win_employee2\Assignment11_win_employee2\bin\Debug\Assignment11_win_employee2.exe
+C:\Documents and Settings\GLOBSYN_SS16_01\Desktop\Assignment11_win_employee2\Assignment11_win_employee2\bin\Debug\Assignment11_win_employee2.pdb
+C:\Documents and Settings\GLOBSYN_SS16_01\Desktop\Assignment11_win_employee2\Assignment11_win_employee2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\GLOBSYN_SS16_01\Desktop\Assignment11_win_employee2\Assignment11_win_employee2\obj\x86\Debug\Assignment11_win_employee2.Form1.resources
+C:\Documents and Settings\GLOBSYN_SS16_01\Desktop\Assignment11_win_employee2\Assignment11_win_employee2\obj\x86\Debug\Assignment11_win_employee2.frm_show.resources
+C:\Documents and Settings\GLOBSYN_SS16_01\Desktop\Assignment11_win_employee2\Assignment11_win_employee2\obj\x86\Debug\Assignment11_win_employee2.Properties.Resources.resources
+C:\Documents and Settings\GLOBSYN_SS16_01\Desktop\Assignment11_win_employee2\Assignment11_win_employee2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\GLOBSYN_SS16_01\Desktop\Assignment11_win_employee2\Assignment11_win_employee2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\GLOBSYN_SS16_01\Desktop\Assignment11_win_employee2\Assignment11_win_employee2\obj\x86\Debug\Assignment11_win_employee2.frm_employees.resources
+C:\Documents and Settings\GLOBSYN_SS16_01\Desktop\Assignment11_win_employee2\Assignment11_win_employee2\obj\x86\Debug\Assignment11_win_employee2.frm_login.resources
+G:\Assignment11_win_employee2\Assignment11_win_employee2\bin\Debug\Assignment11_win_employee2.exe.config
+G:\Assignment11_win_employee2\Assignment11_win_employee2\obj\x86\Debug\Assignment11_win_employee2.exe
+G:\Assignment11_win_employee2\Assignment11_win_employee2\bin\Debug\Assignment11_win_employee2.exe
+G:\Assignment11_win_employee2\Assignment11_win_employee2\bin\Debug\Assignment11_win_employee2.pdb
+G:\Assignment11_win_employee2\Assignment11_win_employee2\obj\x86\Debug\Assignment11_win_employee2.Form1.resources
+G:\Assignment11_win_employee2\Assignment11_win_employee2\obj\x86\Debug\Assignment11_win_employee2.frm_employees.resources
+G:\Assignment11_win_employee2\Assignment11_win_employee2\obj\x86\Debug\Assignment11_win_employee2.frm_login.resources
+G:\Assignment11_win_employee2\Assignment11_win_employee2\obj\x86\Debug\Assignment11_win_employee2.frm_show.resources
+G:\Assignment11_win_employee2\Assignment11_win_employee2\obj\x86\Debug\Assignment11_win_employee2.Properties.Resources.resources
+G:\Assignment11_win_employee2\Assignment11_win_employee2\obj\x86\Debug\Assignment11_win_employee2.csproj.GenerateResource.Cache
+G:\Assignment11_win_employee2\Assignment11_win_employee2\obj\x86\Debug\Assignment11_win_employee2.pdb

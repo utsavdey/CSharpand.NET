@@ -1,0 +1,5 @@
+C:\dotnet_batch1\Console_AbstractClass\Console_AbstractClass\bin\Debug\Console_AbstractClass.exe
+C:\dotnet_batch1\Console_AbstractClass\Console_AbstractClass\bin\Debug\Console_AbstractClass.pdb
+C:\dotnet_batch1\Console_AbstractClass\Console_AbstractClass\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\dotnet_batch1\Console_AbstractClass\Console_AbstractClass\obj\x86\Debug\Console_AbstractClass.exe
+C:\dotnet_batch1\Console_AbstractClass\Console_AbstractClass\obj\x86\Debug\Console_AbstractClass.pdb

@@ -1,0 +1,5 @@
+C:\dotNet_batch2\Console_overriding\Console_overriding\bin\Debug\Console_overriding.exe
+C:\dotNet_batch2\Console_overriding\Console_overriding\bin\Debug\Console_overriding.pdb
+C:\dotNet_batch2\Console_overriding\Console_overriding\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\dotNet_batch2\Console_overriding\Console_overriding\obj\x86\Debug\Console_overriding.exe
+C:\dotNet_batch2\Console_overriding\Console_overriding\obj\x86\Debug\Console_overriding.pdb

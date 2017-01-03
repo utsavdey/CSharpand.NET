@@ -1,0 +1,7 @@
+C:\dotnet_batch1\Console_Generic\Console_Generic\bin\Debug\Console_Generic.exe
+C:\dotnet_batch1\Console_Generic\Console_Generic\bin\Debug\Console_Generic.pdb
+C:\dotnet_batch1\Console_Generic\Console_Generic\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\dotnet_batch1\Console_Generic\Console_Generic\obj\x86\Debug\Console_Generic.exe
+C:\dotnet_batch1\Console_Generic\Console_Generic\obj\x86\Debug\Console_Generic.pdb
+G:\Codes\Console_Generic\Console_Generic\obj\x86\Debug\Console_Generic.exe
+G:\Codes\Console_Generic\Console_Generic\obj\x86\Debug\Console_Generic.pdb

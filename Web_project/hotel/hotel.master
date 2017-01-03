@@ -1,0 +1,70 @@
+﻿<%@ Master Language="VB" CodeFile="hotel.master.vb" Inherits="hotel_hotel" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .style1
+        {
+            width: 800px;
+        }
+        .style3
+        {
+            width: 79px;
+            height: 58px;
+        }
+        .style4
+        {
+            height: 58px;
+        }
+        .style5
+        {
+            height: 58px;
+            width: 583px;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        
+        <table align="center" class="style1">
+            <tr>
+                <td>
+                    <table align="center" class="style1">
+                        <tr>
+                            <td class="style3">
+                                <asp:Image ID="Image1" runat="server" Height="67px" 
+                                    ImageUrl="~/icons/Hotel_by_Adji_Herdanto.png" Width="81px" />
+                            </td>
+                            <td align="center" class="style5">
+                                <asp:Label ID="Label1" runat="server" Font-Size="XX-Large" 
+                                    style="color: #666666" Text="The ABC Hotels"></asp:Label>
+                            </td>
+                            <td align="right" class="style4">
+                                <asp:Button ID="btn_SignOut" runat="server" Text="Sign Out" />
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    </asp:ContentPlaceHolder>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    &nbsp;</td>
+            </tr>
+        </table>
+        
+    </div>
+    </form>
+</body>
+</html>

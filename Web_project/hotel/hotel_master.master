@@ -1,0 +1,101 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="hotel_master.master.cs" Inherits="hotel_hotel_master" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .style1
+        {
+            width: 800px;
+        }
+        .style2
+        {
+            width: 100%;
+        }
+        .style3
+        {
+            width: 355px;
+            color: #666666;
+        }
+        .style4
+        {
+            height: 28px;
+        }
+        .style5
+        {
+            height: 23px;
+        }
+        .style6
+        {
+            width: 5px;
+        }
+    </style>
+</head>
+<body bgcolor="#ff8c40">
+    <form id="form1" runat="server">
+    <div>
+        
+        <table align="center" class="style1">
+            <tr>
+                <td>
+                    <table class="style2">
+                        <tr>
+                            <td>
+                                <asp:Image ID="Image1" runat="server" 
+                                    ImageUrl="~/icons/Hotel_by_Adji_Herdanto.png" Width="80px" />
+                            </td>
+                            <td align="center" class="style3">
+                                <asp:Label ID="Label1" runat="server" Font-Size="XX-Large" 
+                                    Text="The ABC Hotels" ForeColor="Black"></asp:Label>
+                            </td>
+                            <td align="right">
+                                <asp:Button ID="btn_signout" runat="server" onclick="btn_signout_Click" 
+                                    Text="Sign Out" Width="80px" />
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td class="style4">
+                        <asp:Menu ID="Menu2" runat="server" BorderColor="White" Font-Size="XX-Large" 
+                            ForeColor="White" Height="40px" Orientation="Horizontal" 
+                            style="color: #FFFFFF; background-color: #000000" Width="1024px">
+                            <Items>
+                                <asp:MenuItem Text="Home     " Value="Home     " 
+                                    NavigateUrl="~/hotel/home.aspx"></asp:MenuItem>
+                                <asp:MenuItem></asp:MenuItem>
+                                <asp:MenuItem Text="My Booking" Value="Show Booking" 
+                                    NavigateUrl="~/hotel/my_booking.aspx"></asp:MenuItem>
+                                <asp:MenuItem></asp:MenuItem>
+                                <asp:MenuItem Text="Admin" Value="Admin" NavigateUrl="~/admin/add.aspx"></asp:MenuItem>
+                                <asp:MenuItem></asp:MenuItem>
+                                <asp:MenuItem Text="Help" Value="Help" 
+                                    NavigateUrl="~/Documentation/help_list.aspx"></asp:MenuItem>
+                                <asp:MenuItem></asp:MenuItem>
+                            </Items>
+                            <StaticMenuItemStyle ItemSpacing="50px" HorizontalPadding="55px" />
+                            <StaticSelectedStyle HorizontalPadding="47px" ItemSpacing="50px" />
+                        </asp:Menu>
+                    </td>
+            </tr>
+            <tr>
+                <td>
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    </asp:ContentPlaceHolder>
+                </td>
+            </tr>
+            <tr>
+                <td bgcolor="Black" class="style5" height="100px" width="50px">
+                    &nbsp;</td>
+            </tr>
+        </table>
+        
+    </div>
+    </form>
+    </body>
+</html>

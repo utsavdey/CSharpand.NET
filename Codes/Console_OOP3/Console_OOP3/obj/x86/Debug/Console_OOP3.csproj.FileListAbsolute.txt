@@ -1,0 +1,5 @@
+C:\dotnet_batch1\Console_OOP3\Console_OOP3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\dotnet_batch1\Console_OOP3\Console_OOP3\bin\Debug\Console_OOP3.exe
+C:\dotnet_batch1\Console_OOP3\Console_OOP3\bin\Debug\Console_OOP3.pdb
+C:\dotnet_batch1\Console_OOP3\Console_OOP3\obj\x86\Debug\Console_OOP3.exe
+C:\dotnet_batch1\Console_OOP3\Console_OOP3\obj\x86\Debug\Console_OOP3.pdb

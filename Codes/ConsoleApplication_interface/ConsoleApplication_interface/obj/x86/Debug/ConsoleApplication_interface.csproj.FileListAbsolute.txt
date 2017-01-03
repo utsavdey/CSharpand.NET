@@ -1,0 +1,5 @@
+C:\dotnet_batch1\ConsoleApplication_interface\ConsoleApplication_interface\bin\Debug\ConsoleApplication_interface.exe
+C:\dotnet_batch1\ConsoleApplication_interface\ConsoleApplication_interface\bin\Debug\ConsoleApplication_interface.pdb
+C:\dotnet_batch1\ConsoleApplication_interface\ConsoleApplication_interface\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\dotnet_batch1\ConsoleApplication_interface\ConsoleApplication_interface\obj\x86\Debug\ConsoleApplication_interface.exe
+C:\dotnet_batch1\ConsoleApplication_interface\ConsoleApplication_interface\obj\x86\Debug\ConsoleApplication_interface.pdb

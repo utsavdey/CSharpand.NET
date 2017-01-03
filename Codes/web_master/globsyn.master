@@ -1,0 +1,74 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="globsyn.master.cs" Inherits="globsyn" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .style1
+        {
+            width: 800px;
+            border: 1px solid #800080;
+        }
+        .style2
+        {
+            height: 23px;
+        }
+        .style4
+        {
+            height: 421px;
+        }
+        .style5
+        {
+            height: 31px;
+        }
+        .style6
+        {
+            height: 421px;
+            width: 183px;
+        }
+        .style7
+        {
+            height: 31px;
+            width: 183px;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        
+        <table align="center" class="style1">
+            <tr>
+                <td align="center" class="style2" colspan="2">
+                    <asp:Label ID="Label1" runat="server" Font-Size="Larger" Text="Globsyn,Kolata"></asp:Label>
+                    <asp:LinkButton ID="lb_signOut" runat="server" onclick="lb_signOut_Click">Sign Out</asp:LinkButton>
+                    <asp:Label ID="lbl_username" runat="server"></asp:Label>
+                </td>
+            </tr>
+            <tr>
+                <td bgcolor="#EFEFEF" class="style6" valign="top">
+                    <asp:TreeView ID="TreeView1" runat="server" DataSourceID="SiteMapDataSource1">
+                    </asp:TreeView>
+                    <asp:SiteMapDataSource ID="SiteMapDataSource1" runat="server" />
+                </td>
+                <td class="style4" valign="top">
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    </asp:ContentPlaceHolder>
+                </td>
+            </tr>
+            <tr>
+                <td class="style7">
+                </td>
+                <td class="style5">
+                </td>
+            </tr>
+        </table>
+        
+    </div>
+    </form>
+</body>
+</html>

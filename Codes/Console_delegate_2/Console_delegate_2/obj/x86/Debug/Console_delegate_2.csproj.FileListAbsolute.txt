@@ -1,0 +1,7 @@
+C:\dotnet_batch1\Console_delegate_2\Console_delegate_2\bin\Debug\Console_delegate_2.exe
+C:\dotnet_batch1\Console_delegate_2\Console_delegate_2\bin\Debug\Console_delegate_2.pdb
+C:\dotnet_batch1\Console_delegate_2\Console_delegate_2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\dotnet_batch1\Console_delegate_2\Console_delegate_2\obj\x86\Debug\Console_delegate_2.exe
+C:\dotnet_batch1\Console_delegate_2\Console_delegate_2\obj\x86\Debug\Console_delegate_2.pdb
+G:\Codes\Console_delegate_2\Console_delegate_2\obj\x86\Debug\Console_delegate_2.exe
+G:\Codes\Console_delegate_2\Console_delegate_2\obj\x86\Debug\Console_delegate_2.pdb

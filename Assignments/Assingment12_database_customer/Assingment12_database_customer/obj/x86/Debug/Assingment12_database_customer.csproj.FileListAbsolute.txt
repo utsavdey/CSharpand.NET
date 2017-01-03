@@ -1,0 +1,11 @@
+D:\ASSN C# and .NET\Assingment12_database_customer\Assingment12_database_customer\bin\Debug\Assingment12_database_customer.exe
+D:\ASSN C# and .NET\Assingment12_database_customer\Assingment12_database_customer\bin\Debug\Assingment12_database_customer.pdb
+D:\ASSN C# and .NET\Assingment12_database_customer\Assingment12_database_customer\obj\x86\Debug\Assingment12_database_customer.Form1.resources
+D:\ASSN C# and .NET\Assingment12_database_customer\Assingment12_database_customer\obj\x86\Debug\Assingment12_database_customer.Properties.Resources.resources
+D:\ASSN C# and .NET\Assingment12_database_customer\Assingment12_database_customer\obj\x86\Debug\Assingment12_database_customer.csproj.GenerateResource.Cache
+D:\ASSN C# and .NET\Assingment12_database_customer\Assingment12_database_customer\obj\x86\Debug\Assingment12_database_customer.exe
+D:\ASSN C# and .NET\Assingment12_database_customer\Assingment12_database_customer\obj\x86\Debug\Assingment12_database_customer.pdb
+D:\ASSN C# and .NET\Assingment12_database_customer\Assingment12_database_customer\obj\x86\Debug\Assingment12_database_customer.csprojResolveAssemblyReference.cache
+D:\ASSN C# and .NET\Assingment12_database_customer\Assingment12_database_customer\obj\x86\Debug\Assingment12_database_customer.frm_show.resources
+D:\Assignments\Assingment12_database_customer\Assingment12_database_customer\obj\x86\Debug\Assingment12_database_customer.exe
+D:\Assignments\Assingment12_database_customer\Assingment12_database_customer\obj\x86\Debug\Assingment12_database_customer.pdb

@@ -1,0 +1,5 @@
+C:\dotnet_batch1\sum_dll\sum_dll\bin\Debug\sum_dll.dll
+C:\dotnet_batch1\sum_dll\sum_dll\bin\Debug\sum_dll.pdb
+C:\dotnet_batch1\sum_dll\sum_dll\obj\Debug\ResolveAssemblyReference.cache
+C:\dotnet_batch1\sum_dll\sum_dll\obj\Debug\sum_dll.dll
+C:\dotnet_batch1\sum_dll\sum_dll\obj\Debug\sum_dll.pdb

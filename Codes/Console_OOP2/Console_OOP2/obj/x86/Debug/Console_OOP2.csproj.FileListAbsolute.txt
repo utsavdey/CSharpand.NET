@@ -1,0 +1,9 @@
+C:\dotnet_batch1\Console_OOP2\Console_OOP2\bin\Debug\Console_OOP2.exe
+C:\dotnet_batch1\Console_OOP2\Console_OOP2\bin\Debug\Console_OOP2.pdb
+C:\dotnet_batch1\Console_OOP2\Console_OOP2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\dotnet_batch1\Console_OOP2\Console_OOP2\obj\x86\Debug\Console_OOP2.exe
+C:\dotnet_batch1\Console_OOP2\Console_OOP2\obj\x86\Debug\Console_OOP2.pdb
+G:\Console_OOP2\Console_OOP2\obj\x86\Debug\Console_OOP2.exe
+G:\Console_OOP2\Console_OOP2\obj\x86\Debug\Console_OOP2.pdb
+G:\Codes\Console_OOP2\Console_OOP2\obj\x86\Debug\Console_OOP2.exe
+G:\Codes\Console_OOP2\Console_OOP2\obj\x86\Debug\Console_OOP2.pdb

@@ -1,0 +1,88 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="admin_master.master.cs" Inherits="admin_admin_master" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .style1
+        {
+            width: 800px;
+        }
+        .style2
+        {
+            width: 204px;
+            background-color: #FFFFFF;
+        }
+        .style3
+        {
+            color: #000000;
+        }
+        .style4
+        {
+            background-color: #FFFFFF;
+        }
+        </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+       
+        <table align="center" class="style1">
+            <tr>
+                <td>
+                    <asp:Image ID="Image3" runat="server" CssClass="style3" 
+                        ImageUrl="~/icons/Hotel_by_Adji_Herdanto.png" Width="84px" />
+                </td>
+                <td align="center">
+                                <asp:Label ID="Label1" runat="server" Font-Size="XX-Large" 
+                                    Text="The ABC Hotels" style="color: #999999"></asp:Label>
+                            </td>
+                <td class="style4" align="right">
+                    <asp:Button ID="btn_signout" runat="server" Text="Sign Out" Width="80px" 
+                        onclick="btn_signout_Click" CssClass="style3" />
+                    <br class="style3" />
+                    <br class="style3" />
+                    <br class="style3" />
+                </td>
+            </tr>
+            <tr>
+                <td class="style2" align="left" valign="top">
+                    &nbsp;</td>
+                <td align="center" class="style4">
+                    <asp:Image ID="Image2" runat="server" CssClass="style3" 
+                        ImageUrl="~/admin/admin_icons/noun_247547_cc.png" Width="84px" />
+                </td>
+            </tr>
+            <tr>
+                <td class="style2" align="left" valign="top">
+                    <asp:Menu ID="Menu1" runat="server" onmenuitemclick="Menu1_MenuItemClick" 
+                        RenderingMode="Table" BackColor="White" Font-Size="Large" Height="332px" 
+                        style="color: #CCFFFF; background-color: #FFFFFF">
+                        <Items>
+                            <asp:MenuItem Text="Add Hotels" Value="Add Hotels" 
+                                NavigateUrl="~/admin/add.aspx"></asp:MenuItem>
+                            <asp:MenuItem Text="Update Hotels" Value="Update Hotels" 
+                                NavigateUrl="~/admin/Update.aspx"></asp:MenuItem>
+                            <asp:MenuItem Text="Delete Hotels" Value="Delete Hotels" 
+                                NavigateUrl="~/admin/delete.aspx"></asp:MenuItem>
+                            <asp:MenuItem Text="View Accounts" Value="View Accounts"></asp:MenuItem>
+                            <asp:MenuItem Text="Remove Accounts" Value="Remove Accounts"></asp:MenuItem>
+                        </Items>
+                        <StaticSelectedStyle BackColor="#E5E5E5" />
+                    </asp:Menu>
+                </td>
+                <td>
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    </asp:ContentPlaceHolder>
+                </td>
+            </tr>
+        </table>
+       
+    </div>
+    </form>
+</body>
+</html>

@@ -1,0 +1,10 @@
+C:\dotnet_batch1\win_multiform\win_multiform\bin\Debug\win_multiform.exe
+C:\dotnet_batch1\win_multiform\win_multiform\bin\Debug\win_multiform.pdb
+C:\dotnet_batch1\win_multiform\win_multiform\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\dotnet_batch1\win_multiform\win_multiform\obj\x86\Debug\win_multiform.Properties.Resources.resources
+C:\dotnet_batch1\win_multiform\win_multiform\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\dotnet_batch1\win_multiform\win_multiform\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\dotnet_batch1\win_multiform\win_multiform\obj\x86\Debug\win_multiform.exe
+C:\dotnet_batch1\win_multiform\win_multiform\obj\x86\Debug\win_multiform.pdb
+C:\dotnet_batch1\win_multiform\win_multiform\obj\x86\Debug\win_multiform.Form_home.resources
+C:\dotnet_batch1\win_multiform\win_multiform\obj\x86\Debug\win_multiform.frm_login.resources

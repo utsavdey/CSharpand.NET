@@ -1,0 +1,5 @@
+C:\dotnet_batch1\Console_delegates\Console_delegates\bin\Debug\Console_delegates.exe
+C:\dotnet_batch1\Console_delegates\Console_delegates\bin\Debug\Console_delegates.pdb
+C:\dotnet_batch1\Console_delegates\Console_delegates\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\dotnet_batch1\Console_delegates\Console_delegates\obj\x86\Debug\Console_delegates.exe
+C:\dotnet_batch1\Console_delegates\Console_delegates\obj\x86\Debug\Console_delegates.pdb

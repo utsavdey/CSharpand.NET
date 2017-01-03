@@ -1,0 +1,9 @@
+C:\dotnet_batch1\WindowsForms_day1\WindowsForms_day1\bin\Debug\WindowsForms_day1.exe
+C:\dotnet_batch1\WindowsForms_day1\WindowsForms_day1\bin\Debug\WindowsForms_day1.pdb
+C:\dotnet_batch1\WindowsForms_day1\WindowsForms_day1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\dotnet_batch1\WindowsForms_day1\WindowsForms_day1\obj\x86\Debug\WindowsForms_day1.Form1.resources
+C:\dotnet_batch1\WindowsForms_day1\WindowsForms_day1\obj\x86\Debug\WindowsForms_day1.Properties.Resources.resources
+C:\dotnet_batch1\WindowsForms_day1\WindowsForms_day1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\dotnet_batch1\WindowsForms_day1\WindowsForms_day1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\dotnet_batch1\WindowsForms_day1\WindowsForms_day1\obj\x86\Debug\WindowsForms_day1.exe
+C:\dotnet_batch1\WindowsForms_day1\WindowsForms_day1\obj\x86\Debug\WindowsForms_day1.pdb

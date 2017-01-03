@@ -1,0 +1,9 @@
+C:\dotnet_batch1\win_first_app\win_first_app\bin\Debug\win_first_app.exe
+C:\dotnet_batch1\win_first_app\win_first_app\bin\Debug\win_first_app.pdb
+C:\dotnet_batch1\win_first_app\win_first_app\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\dotnet_batch1\win_first_app\win_first_app\obj\x86\Debug\win_first_app.Form1.resources
+C:\dotnet_batch1\win_first_app\win_first_app\obj\x86\Debug\win_first_app.Properties.Resources.resources
+C:\dotnet_batch1\win_first_app\win_first_app\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\dotnet_batch1\win_first_app\win_first_app\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\dotnet_batch1\win_first_app\win_first_app\obj\x86\Debug\win_first_app.exe
+C:\dotnet_batch1\win_first_app\win_first_app\obj\x86\Debug\win_first_app.pdb
